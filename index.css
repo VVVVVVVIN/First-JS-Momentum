@@ -41,3 +41,9 @@ body {
   z-index: -1;
   animation: fadeIn 1s linear;
 }
+
+.js-clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
